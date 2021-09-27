@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">codeAssignment_cg</string>
+    <string name="post">post</string>
+    <string name="user_name">User Name</string>
+    <string name="age">Age</string>
+    <string name="Dob">Date of birth</string>
+</resources>
